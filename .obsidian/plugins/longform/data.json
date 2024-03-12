@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "Rules/Master/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2024-03-12T11:04:51.653Z",
+      "total": 16,
+      "drafts": {
+        "Rules/Master/Index.md": {
+          "total": 8,
+          "scenes": {
+            "Making A Character": 8
+          }
+        },
+        "Rules/Chapters/1. Character/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Rules/Chapters/2. Combat/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Rules/Master/Index 1.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Rules/Chapters/2. Combat/Index 1.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Rules/Master/2. Combat/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Rules/Master/2. Combat/1. Character/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Rules/Master/1. Character/Index.md": {
+          "total": 8,
+          "scenes": {
+            "Race": 4,
+            "Class": 4
+          }
+        },
+        "Rules/Master/Character/Index.md": {
+          "total": 8,
+          "scenes": {
+            "Race": 4,
+            "Class": 4
+          }
+        },
+        "Rules/Master/Combat/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "# $2. $1",
+            "separator": " "
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "Complete Compendium.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}
