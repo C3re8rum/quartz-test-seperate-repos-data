@@ -1,0 +1,24 @@
+{
+  "githubRepo": "quartz-test-seperate-repos",
+  "githubToken": "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",
+  "githubUserName": "C3re8rum",
+  "prHistory": [],
+  "useFullResolutionImages": false,
+  "noteSettingsIsInitialized": true,
+  "siteName": "Quartz",
+  "slugifyEnabled": true,
+  "showCreatedTimestamp": false,
+  "createdTimestampKey": "",
+  "showUpdatedTimestamp": false,
+  "updatedTimestampKey": "",
+  "timestampFormat": "MMM dd, yyyy h:mm a",
+  "styleSettingsCss": "",
+  "styleSettingsBodyClasses": "",
+  "pathRewriteRules": "",
+  "customFilters": [],
+  "contentClassesKey": "content-classes",
+  "defaultNoteSettings": {
+    "HomeLink": true,
+    "PassFrontmatter": false
+  }
+}

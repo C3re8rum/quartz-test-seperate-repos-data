@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Master/Character/Class.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8037067f32133967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Rules/test.md",
                 "mode": "source",
                 "source": false
@@ -91,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,6 +206,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "quartz-syncer:Quartz Syncer Publication Center": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -227,21 +216,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8037067f32133967",
+  "active": "253c1dfebdc20a49",
   "lastOpenFiles": [
+    "Rules/Master/Complete Compendium.md",
+    "Rules/Master/Index.md",
+    "Rules/Master/Complete_Compendium.md",
+    "Rules/Master/Making A Character.md",
+    "Rules/test.md",
+    "Rules/Master/Character/Class.md",
+    "Output",
+    "Rules/Master/manuscript.md",
+    "Rules/Master/Chapters/Making A Character.md",
     "quartz-test-seperate-repo-content",
     "Rules/Master/Combat/Index.md",
     "Rules/Master/Character/Race.md",
     "Rules/Master/Character/othershit.md",
-    "Rules/test.md",
     "Rules/Master/Character/Index.md",
-    "Rules/Master/Complete_Compendium.md",
-    "Rules/Master/Complete Compendium.md",
-    "Rules/Master/manuscript.md",
-    "Rules/Master/Index.md",
-    "Rules/Master/Making A Character.md",
-    "Rules/Master/Character/Class.md",
-    "Rules/Master/Chapters/Making A Character.md",
     "Untitled.md",
     "Rules/Master/Character/1. Making A Character",
     "Rules/Master/Chapters/Character.md",
@@ -254,10 +244,8 @@
     "Rules/Master/Character/1. Character/Rules",
     "Rules/Master/Character/1. Character",
     "Rules/Master/Chapters/undefined.md",
-    "Rules/Master/Chapters",
     "Templates/Template - Chapter.md",
     "Templates/Template - Rule.md",
-    "Templates",
     "Rules/Untitled.md",
     "Welcome.md",
     "Another Note.md",
