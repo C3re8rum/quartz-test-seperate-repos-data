@@ -58,7 +58,7 @@
     "links": {
       "internal": true,
       "unshared": false,
-      "wiki": false,
+      "wiki": true,
       "slugify": "disable"
     }
   },
